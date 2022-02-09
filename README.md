@@ -35,7 +35,7 @@ This repository is a collection of coding problems encountered in interviews.
 
 
 # coding prep videos
-[Cherno](https://www.youtube.com/watch?v=4fJBrditnJU&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=33),
+[Cherno C++](https://www.youtube.com/watch?v=4fJBrditnJU&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=33),
 [ML-from-scratch](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 
 
