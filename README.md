@@ -1,3 +1,7 @@
+This repository is a collection of coding problems encountered in interviews.
+
+
+
 ## Leetcode questions:
 
 - [maximum-good-people-based-on-statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/). (Tusimple)
@@ -28,5 +32,12 @@
  - RANSAC algorithm
  - Reprojection Error in SFM
  - Transformation matrices.
+
+
+# coding prep videos
+[Cherno](https://www.youtube.com/watch?v=4fJBrditnJU&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=33),
+[ML-from-scratch](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+
+
 
 
