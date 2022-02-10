@@ -6,13 +6,13 @@ This repository is a collection of coding problems encountered in interviews.
 
 - [maximum-good-people-based-on-statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/). (Tusimple) 
 
-:heavy_check_mark: [shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (Mathworks) :heavy_check_mark:
+:heavy_check_mark: [shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (Mathworks) 
  
-:heavy_check_mark: [number-subarrays-sum-exactly-equal-k](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/) (Mathworks) :heavy_check_mark:
+:heavy_check_mark: [number-subarrays-sum-exactly-equal-k](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/) (Mathworks) 
  
 - [find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (Mathworks)
 
-- [count-binary-substrings](https://leetcode.com/problems/count-binary-substrings/) (Quanergy) :heavy_check_mark:
+- [count-binary-substrings](https://leetcode.com/problems/count-binary-substrings/) (Quanergy) 
 
 :heavy_check_mark: [robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle/) (PikNik Robotics) 
  
@@ -20,7 +20,7 @@ This repository is a collection of coding problems encountered in interviews.
 
 :heavy_check_mark: [fizz-buzz](https://leetcode.com/problems/fizz-buzz/)(PikNik Robotics) 
 
-:heavy_check_mark: [largest-triangle-area](https://leetcode.com/problems/largest-triangle-area/)(PikNik Robotics) :heavy_check_mark:
+:heavy_check_mark: [largest-triangle-area](https://leetcode.com/problems/largest-triangle-area/)(PikNik Robotics) 
 
 
 # ML Questions
