@@ -4,27 +4,27 @@ This repository is a collection of coding problems encountered in interviews.
 
 ## Leetcode questions:
 
-- [maximum-good-people-based-on-statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/). (Tusimple)
+- [maximum-good-people-based-on-statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/). (Tusimple) 
 
-- [shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (Mathworks)
+- [shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (Mathworks) :heavy_check_mark:
  
-- [number-subarrays-sum-exactly-equal-k](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/) (Mathworks)
+- [number-subarrays-sum-exactly-equal-k](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/) (Mathworks) :heavy_check_mark:
  
 - [find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (Mathworks)
 
-- [count-binary-substrings](https://leetcode.com/problems/count-binary-substrings/) (Quanergy)
+- [count-binary-substrings](https://leetcode.com/problems/count-binary-substrings/) (Quanergy) :heavy_check_mark:
 
-- [robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle/) (PikNik Robotics)
+- [robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle/) (PikNik Robotics) :heavy_check_mark:
  
-- [cheapest-flights-within-k-stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (PikNik Robotics)
+- [cheapest-flights-within-k-stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (PikNik Robotics) :heavy_check_mark:
 
-- [fizz-buzz](https://leetcode.com/problems/fizz-buzz/)(PikNik Robotics)
+- [fizz-buzz](https://leetcode.com/problems/fizz-buzz/)(PikNik Robotics) :heavy_check_mark:
 
-- [largest-triangle-area](https://leetcode.com/problems/largest-triangle-area/)(PikNik Robotics)
+- [largest-triangle-area](https://leetcode.com/problems/largest-triangle-area/)(PikNik Robotics) :heavy_check_mark:
 
 
 # ML Questions
- - Least Squares
+ - Least Squares 
  - Total Least Squares
  - PCA explanation
  - Cycle Consistency Loss in GANs
