@@ -10,7 +10,7 @@ This repository is a collection of coding problems encountered in interviews.
  
 :heavy_check_mark: [number-subarrays-sum-exactly-equal-k](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/) (Mathworks) 
  
-- [find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (Mathworks)
+:heavy_check_mark:  [find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/), [Group-Anagrams](https://leetcode.com/problems/group-anagrams/)  (Mathworks)
 
 - [count-binary-substrings](https://leetcode.com/problems/count-binary-substrings/) (Quanergy) 
 
