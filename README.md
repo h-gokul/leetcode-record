@@ -34,10 +34,10 @@ This repository is a collection of coding problems encountered in interviews.
  - Transformation matrices.
 
 
-# coding prep videos
+# coding prep data
 [Cherno C++](https://www.youtube.com/watch?v=4fJBrditnJU&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=33),
 [ML-from-scratch](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
-
+[dynamic-programming-read](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced)
 
 
 
