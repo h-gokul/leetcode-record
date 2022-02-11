@@ -12,7 +12,7 @@ This repository is a collection of coding problems encountered in interviews.
  
 :heavy_check_mark:  [find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/), [Group-Anagrams](https://leetcode.com/problems/group-anagrams/)  (Mathworks)
 
-- [count-binary-substrings](https://leetcode.com/problems/count-binary-substrings/) (Quanergy) 
+:heavy_check_mark: [count-binary-substrings](https://leetcode.com/problems/count-binary-substrings/) (Quanergy) 
 
 :heavy_check_mark: [robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle/) (PikNik Robotics) 
  
