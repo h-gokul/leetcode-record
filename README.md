@@ -4,7 +4,7 @@ This repository is a collection of coding problems encountered in interviews.
 
 ## Leetcode questions:
 
-- [maximum-good-people-based-on-statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/). (Tusimple) 
+:heavy_check_mark: [maximum-good-people-based-on-statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/). (Tusimple) 
 
 :heavy_check_mark: [shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (Mathworks) 
  
