@@ -6,6 +6,8 @@ This repository is a collection of coding problems encountered in interviews.
 
 :heavy_check_mark: [maximum-good-people-based-on-statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/). (Tusimple) 
 
+:heavy_check_mark: [mindegree-trio](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/)
+
 :heavy_check_mark: [shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (Mathworks) 
  
 :heavy_check_mark: [number-subarrays-sum-exactly-equal-k](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/) (Mathworks) 
@@ -21,7 +23,7 @@ This repository is a collection of coding problems encountered in interviews.
 :heavy_check_mark: [fizz-buzz](https://leetcode.com/problems/fizz-buzz/)(PikNik Robotics) 
 
 :heavy_check_mark: [largest-triangle-area](https://leetcode.com/problems/largest-triangle-area/)(PikNik Robotics) 
-
+:heavy_check_mark: [convert-date-format](https://leetcode.com/problems/reformat-date/)
 
 # ML Questions I faced
  - 
