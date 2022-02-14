@@ -4,26 +4,27 @@ This repository is a collection of coding problems encountered in interviews.
 
 ## Leetcode questions:
 
-:heavy_check_mark: [maximum-good-people-based-on-statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/). (Tusimple) 
+:heavy_check_mark: [maximum-good-people-based-on-statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/). (#140) 
 
-:heavy_check_mark: [mindegree-trio](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/)
+:heavy_check_mark: [mindegree-trio](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) (#140) 
 
-:heavy_check_mark: [shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (Mathworks) 
+:heavy_check_mark: [shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (#29) 
  
-:heavy_check_mark: [number-subarrays-sum-exactly-equal-k](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/) (Mathworks) 
+:heavy_check_mark: [number-subarrays-sum-exactly-equal-k](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/) (#29) 
  
-:heavy_check_mark:  [find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/), [Group-Anagrams](https://leetcode.com/problems/group-anagrams/)  (Mathworks)
+:heavy_check_mark:  [find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/), [Group-Anagrams](https://leetcode.com/problems/group-anagrams/) (#29)
 
-:heavy_check_mark: [count-binary-substrings](https://leetcode.com/problems/count-binary-substrings/) (Quanergy) 
+:heavy_check_mark: [count-binary-substrings](https://leetcode.com/problems/count-binary-substrings/) (#10) 
 
-:heavy_check_mark: [robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle/) (PikNik Robotics) 
+:heavy_check_mark: [robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle/) (#136)
  
-- [cheapest-flights-within-k-stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (PikNik Robotics) 
+- [cheapest-flights-within-k-stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (#136)
 
-:heavy_check_mark: [fizz-buzz](https://leetcode.com/problems/fizz-buzz/)(PikNik Robotics) 
+:heavy_check_mark: [fizz-buzz](https://leetcode.com/problems/fizz-buzz/)(#136)
 
-:heavy_check_mark: [largest-triangle-area](https://leetcode.com/problems/largest-triangle-area/)(PikNik Robotics) 
-:heavy_check_mark: [convert-date-format](https://leetcode.com/problems/reformat-date/)
+:heavy_check_mark: [largest-triangle-area](https://leetcode.com/problems/largest-triangle-area/)(#136) 
+
+:heavy_check_mark: [convert-date-format](https://leetcode.com/problems/reformat-date/) (#140) 
 
 # ML Questions I faced
  - 
