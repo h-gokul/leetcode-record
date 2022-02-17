@@ -28,6 +28,12 @@ This repository is a collection of coding problems encountered in interviews.
 
 - [basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii/)
 
+- [unique-paths](https://leetcode.com/problems/unique-paths/)
+
+- [unique-paths-2](https://leetcode.com/problems/unique-paths-ii/)
+
+- [valid-sudoku](https://leetcode.com/problems/valid-sudoku/)
+
 # ML Questions I faced
  - 
  - YOLO Object detection
