@@ -48,7 +48,7 @@ This repository is a collection of coding problems encountered in interviews.
 
 
 # coding prep data
-[cmake-tutorials](https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4)
+[cmake-tutorials](https://www.youtube.com/playlist?list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4)
 
 [ml-interview-prepsite](https://www.mle-interviews.com/)
 
