@@ -48,6 +48,8 @@ This repository is a collection of coding problems encountered in interviews.
 
 
 # coding prep data
+[cmake-tutorials](https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4)
+
 [ml-interview-prepsite](https://www.mle-interviews.com/)
 
 [Cherno C++](https://www.youtube.com/watch?v=4fJBrditnJU&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=33),
