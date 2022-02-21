@@ -34,6 +34,7 @@ This repository is a collection of coding problems encountered in interviews.
 
 - [valid-sudoku](https://leetcode.com/problems/valid-sudoku/)
 
+- [frog-croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)
 # ML Questions I faced
  - 
  - YOLO Object detection
