@@ -60,3 +60,5 @@ This repository is a collection of coding problems encountered in interviews.
 [dynamic-programming-read](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced)
 
 [leetcode-patterns](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode) - Important
+
+[cpp-compiler-flags](https://www.hpc2n.umu.se/documentation/compilers/flags)
