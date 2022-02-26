@@ -35,6 +35,13 @@ This repository is a collection of coding problems encountered in interviews.
 - [valid-sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 - [frog-croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)
+
+-[travel-cities-dijkstra](https://leetcode.com/playground/4GDtKEBA)
+
+-[parse-lisp](https://leetcode.com/problems/parse-lisp-expression/discuss/1492834/C%2B%2B-solution-using-stack)
+
+-[edit=distnace](https://leetcode.com/problems/edit-distance/)
+
 # ML Questions I faced
  - 
  - YOLO Object detection
