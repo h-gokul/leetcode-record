@@ -26,13 +26,13 @@ This repository is a collection of coding problems encountered in interviews.
 
 :heavy_check_mark: [convert-date-format](https://leetcode.com/problems/reformat-date/) (#140) 
 
-- [basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii/)
+:heavy_check_mark: [basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii/)
 
 :heavy_check_mark: [unique-paths](https://leetcode.com/problems/unique-paths/)
 
 :heavy_check_mark: [unique-paths-2](https://leetcode.com/problems/unique-paths-ii/)
 
-- [valid-sudoku](https://leetcode.com/problems/valid-sudoku/)
+:heavy_check_mark: [valid-sudoku](https://leetcode.com/problems/valid-sudoku/)
 
 - [frog-croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)
 
