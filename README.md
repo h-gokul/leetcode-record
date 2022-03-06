@@ -42,6 +42,8 @@ This repository is a collection of coding problems encountered in interviews.
 
 - [edit=distnace](https://leetcode.com/problems/edit-distance/)
 
+
+
 # ML Questions I faced
  - 
  - YOLO Object detection
@@ -54,8 +56,11 @@ This repository is a collection of coding problems encountered in interviews.
  - Reprojection Error in SFM
  - Transformation matrices.
 
+# SystemDesign prep
+[leetcode-design](https://leetcode.com/tag/design/) 
 
-# coding prep data
+
+# Programming prep data
 [cmake-tutorials](https://www.youtube.com/playlist?list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4)
 
 [ml-interview-prepsite](https://www.mle-interviews.com/)
