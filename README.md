@@ -34,7 +34,7 @@ This repository is a collection of coding problems encountered in interviews.
 
 :heavy_check_mark: [valid-sudoku](https://leetcode.com/problems/valid-sudoku/)
 
-- [frog-croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)
+:heavy_check_mark: [frog-croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)
 
 - [travel-cities-dijkstra](https://leetcode.com/playground/4GDtKEBA)
 
