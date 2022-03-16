@@ -59,11 +59,18 @@ This repository is a collection of coding problems encountered in interviews.
 # SystemDesign prep
 [leetcode-design](https://leetcode.com/tag/design/) 
 
+Common Design patterns:
+1) Factory Design (uses abstract class to enforce a pattern)
+2) Proxy Design (uses another derived class of same heirarchial level as an intermediate wrapper to our derived class call in a given factory design)
+3) Singleton Design (uses a static class variable to store a single instance of the class and block creating multiple instances. )
+4) Composite Design (a main derived class recieves other derived classes as arguments or uses them as variables)
 
 # Programming prep data
 [cmake-tutorials](https://www.youtube.com/playlist?list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4)
 
 [ml-interview-prepsite](https://www.mle-interviews.com/)
+
+[shared-pointers](https://medium.com/analytics-vidhya/c-shared-ptr-and-how-to-write-your-own-d0d385c118ad)
 
 [Cherno C++](https://www.youtube.com/watch?v=4fJBrditnJU&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=33),
 
