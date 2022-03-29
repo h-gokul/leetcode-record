@@ -14,3 +14,5 @@ Common Design patterns:
 4) Composite Design (a main derived class recieves other derived classes as arguments or uses them as variables)
  -->
 [design patterns](https://sourcemaking.com/design_patterns)
+
+[cpp design tutorials](https://www.youtube.com/watch?v=XyNWEWUSa5E&list=PLk6CEY9XxSIDZhQURp6d8Sgp-A0yKKDKV)
