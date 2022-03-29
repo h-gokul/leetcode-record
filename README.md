@@ -56,17 +56,6 @@ This repository is a collection of coding problems encountered in interviews.
  - Reprojection Error in SFM
  - Transformation matrices.
 
-# SystemDesign prep
-[leetcode-design](https://leetcode.com/tag/design/) 
-
-Common Design patterns:
-<!-- 1) [Factory Design] (uses abstract class to enforce a pattern)
-2) Proxy Design (uses another derived class of same heirarchial level as an intermediate wrapper to our derived class call in a given factory design)
-3) Singleton Design (uses a static class variable to store a single instance of the class and block creating multiple instances. )
-4) Composite Design (a main derived class recieves other derived classes as arguments or uses them as variables)
- -->
-[design patterns](https://sourcemaking.com/design_patterns)
-
 [design patterns tutorial](https://www.youtube.com/playlist?list=PL_xlJum5pRdD_TEiWf9jK4Ozzg8VJyDSe)
 # Programming prep data
 [cmake-tutorials](https://www.youtube.com/playlist?list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4)
