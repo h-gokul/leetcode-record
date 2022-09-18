@@ -73,3 +73,5 @@ This repository is a collection of coding problems encountered in interviews.
 [leetcode-patterns](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode) - Important
 
 [cpp-compiler-flags](https://www.hpc2n.umu.se/documentation/compilers/flags)
+
+[low level design](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
